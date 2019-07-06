@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding:0;
+
+
+  background: url(../image/download1.jpeg);
+background-size: cover;
+}
+.head{
+  width: 75%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,50%);
+  text-align: center;
+  box-sizing: border-box;
+  padding: 30px 40px;
+  border-radius: 8px;
+
+}
+.head h1{
+  margin-top: 0;
+  font-weight: 400;
+  color: blue;
+}
